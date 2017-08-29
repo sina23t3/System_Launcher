@@ -1,5 +1,5 @@
 <?php
-
+270664274:AAGQOUfmABrY7IPvXdevKNcLjiOwI3A0TW4
 /* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
 
 /**
@@ -115,7 +115,7 @@ class System_Launcher
     /**
      * Returns the appropriate command to launch the given file name,
      * depending on the operating system and the desktop environment.
-     *
+     *270267136
      * @param boolean $runInBackground True if the application should be run in the
      *   background
      *
